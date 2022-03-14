@@ -1,0 +1,35 @@
+* commit 7e934064f62c22ddad886755e8e9b320bb7db845
+| Author: Micklashevsky Michail <miska9745@gmail.com>
+| Date:   Mon Mar 14 21:26:16 2022 +0300
+| 
+|     git log to tree
+| 
+* commit d8b672f18c1be49bdcb750641141db1ac9cce32f
+| Author: Micklashevsky Michail <miska9745@gmail.com>
+| Date:   Mon Mar 14 20:55:27 2022 +0300
+| 
+|     write something in third.txt
+| 
+* commit 1f0bc8f4619cfed8f0ead8e071ce21fa2572e082
+| Author: Micklashevsky Michail <miska9745@gmail.com>
+| Date:   Mon Mar 14 20:06:32 2022 +0300
+| 
+|     first commit
+| 
+* commit a381ec849176c48dc8f29b11f192c2a55924aa13
+| Author: Micklashevsky Michail <miska9745@gmail.com>
+| Date:   Mon Mar 14 19:22:45 2022 +0300
+| 
+|     write something in second.txt and created third.txt
+| 
+* commit ed6feaa082f8848b4adfec9140d83fffc36be36b
+| Author: Micklashevsky Michail <miska9745@gmail.com>
+| Date:   Mon Mar 14 19:19:44 2022 +0300
+| 
+|     creared second.txt
+| 
+* commit 6090dab742a993dc5180990e2215098388e483d5
+  Author: Micklashevsky Michail <miska9745@gmail.com>
+  Date:   Mon Mar 14 19:14:10 2022 +0300
+  
+      created first.txt

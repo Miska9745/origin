@@ -1,0 +1,234 @@
+    1  pwd
+    2  ls
+    3  mkdir java37-git-tepo/
+    4  cd [200~java37-git-tepo/
+    5  cd java37-git-repo/
+    6  mkdir java37-git-tepo
+    7  cd java37-git-tepo
+    8  git status
+    9  git init
+   10  git config --global user.email "miska9745@gmail.com"
+   11  git config global user.name Miklasevsky
+   12  git config global user.name "Miklasevsky"
+   13  touch file.txt
+   14  ls
+   15  vim file.txt
+   16  git config --global user.name "Micklashevsky Michail"
+   17  git config --global user.email miska9745@gmail.com
+   18  git config --list
+   19  mkdir Micklashevsky-git-repo
+   20  cd Micklashevsky-git-repo
+   21  git init
+   22  git remote add newRepository https://github.com.Miska9745/origin.git
+   23  mkdir first.txt
+   24  git config --list
+   25  rm first.txt
+   26  git rm first.txt
+   27  rm first.txt
+   28  git add first.txt
+   29  git status
+   30  touch first.txt
+   31  ll
+   32  ls
+   33  git commit
+   34  git add first.txt
+   35  git commit
+   36  git checkout -b task1
+   37  git status
+   38  touch second.txt
+   39  ls
+   40  git add second.txt
+   41  git commit second.txt
+   42  vim second.txt
+   43  git add second.txt
+   44  git commit second.txt
+   45  touch third.txt
+   46  git add third.txt
+   47  git commit third.txt
+   48  git showgit show
+   49  git show
+   50  git push
+   51  git push third.txt Miska9745
+   52  git push third.txt
+   53  git push third.txt origin
+   54  ls
+   55  git push origin task1
+   56  git push third.txt task1
+   57  git push Miska9745 task1
+   58  git remote
+   59  git remote -v
+   60  git remote add origin git@github.com:Miska9745/origin.git
+   61  git remote -v
+   62  git push 
+   63  git push --set-upstream origin task1
+   64  cd Micklashevsky-git-repo/
+   65  git init
+   66  git remote -v
+   67  git status
+   68  git checkout master
+   69  git checkout Master
+   70  [200~
+   71  git checkout Home
+   72  Switched to branch 'master'
+   73  git status
+   74  git status
+   75  cd
+   76  mkdir Michlachevsky-git-repo
+   77  cd Michlachevsky-git-repo/
+   78  git init
+   79  touch "firsr.txt"
+   80  git add firsr.txt 
+   81  git status
+   82  git commit firsr.txt 
+   83  git checkout -b task1
+   84  touch "second.txt"
+   85  git add "second.txt" 'created second.txt'
+   86  git add "second.txt"
+   87  git commit second.txt "created second.txt"
+   88  [200~git commit second.txt "created second.txt"
+   89  gir commit "second.txt"
+   90  git status
+   91  git commit
+   92  vim "second.txt" 
+   93  git add second.txt 
+   94  touch "third.txt"
+   95  git add third.txt 
+   96  git commit
+   97  git push shared task1
+   98  git remote add shared ../origin.git
+   99  git push shared master
+  100  git push shared task1
+  101  git checkout task1
+  102  git remote
+  103  git temote rm <git@github.com:Miska9745/origin.git>
+  104  git remote add git@github.com:Miska9745/origin.git
+  105  git remote add <origin.git> <git@github.com:Miska9745/origin.git>
+  106  git remote add "origin.git" "git@github.com:Miska9745/origin.git"
+  107  git remout
+  108  git remote
+  109  git push shared task1
+  110  git push
+  111  git push "origin.git"
+  112  git st
+  113  git push
+  114  git push "origin.git"
+  115  git push "origin.git"
+  116  git push "origin.git"
+  117  git push "origin.git"
+  118  git push
+  119  git push "origin.git" "git@github.com:Miska9745/origin.git"
+  120  git@github.com:Miska9745/origin.git
+  121  git push "origin.git"
+  122  git push "origin.git"
+  123  FxMnLXMlEZ6Inn1vO635e072f/TpWvWhopfI9NBrx8HDH3tqx5SlhC7/bZbMGyVG
+  124  pYv0s4UsSq36XQjBT8S51NHptdzbr2qhOhtSjNPpSmdSk33UKM2qCabYryAi+wG/
+  125  pzZ1P8021vp+agZoBMYsg2ngyDCaYkZvjsYtOzL7K9B3QAm7xh664Bf6GtREdUeL
+  126  8hQfVy5jPFZuHXcv0+FHG4Px7Jg3s7sN+UPvYu6nzgAWZ4zXJ9x4wxGmzoOv+p9O
+  127  cdD763pemycCS9LsA6fL5XOMEGzXFBSIx+gRHRMv+Xbu11V4VXR68xFXaPtD0IuQ
+  128  45PV9xkCz/kqYFZ80a4nyhgSRKPW7vJKCOi8eZ7Mjoc+n6/3K0ij/X8NiLeKwulv
+  129  nTAICoCPYpLXpiN6g8Njbjt7sdMIjDO/grltBN6yC9HtDugZuDsxpWChiiDmo+Kz
+  130  HL2fZQPuWw3I4V4TQ5hYA7/N2AML2VM+ep0gznbtKAWSBeaJfj3jGJCEEeUKYEch
+  131  2ls+w59dN36ZfEdF7SFqtCut+cJGPtiMkorsSR5VR767vXYLglgtwc+f23CIsiSz
+  132  JkcQUcQu90Coi8hGmDZEZyyVrlVnzb55OIfmvwGUrXkvbOOBmeTJFI0f9TmzeuaX
+  133  NTW3s1RSZ1uCj+rqoHvHvbh03NarO/CMux1HTgHY7Pa9Qi08BvQG8g==
+  134  git remote add origin git@github.com:Miska9745/origin.git
+  135  git branch -M task1
+  136  git push -u origin task1
+  137  git push -u origin task1
+  138  git push -u origin task1
+  139  git push "origin.git"
+  140  git push -u origin task1
+  141  [200~git remote add origin git@github.com:Miska9745/origin.git
+  142  git branch -M main
+  143  git push -u origin task1
+  144  git remote add origin git@github.com:Miska9745/origin.git
+  145  git push -u origin main
+  146  echo "# origin" >> README.md
+  147  git init
+  148  git add README.md
+  149  git commit -m "first commit"
+  150  git branch -M main
+  151  git remote add origin git@github.com:Miska9745/origin.git
+  152  git push -u origin main
+  153  fatal: Could not read from remote repository.
+  154  eval "ssh-agent -s"
+  155  git push -u origin main
+  156   git push -u origin main
+  157  cd
+  158  mkdir NewMicklachevsky-git-repo
+  159  cd NewMicklachevsky-git-repo/
+  160  git clone https://github.com/Miska9745/origin/tree/main
+  161  git clone https://github.com/Miska9745/origin
+  162  Switched to a new branch 'task1'
+  163  git checkout task1
+  164  git checkout -b task1
+  165  git branch task1
+  166  git init
+  167  git branch task1
+  168  git --bare init
+  169  git branch task1 
+  170  git add .
+  171  git branch task1
+  172  git commit
+  173  git branch task1
+  174  git branch task1
+  175  git checkout task1
+  176  touch "fourth.txt"
+  177  git add fourth.txt "created fourth.txt" 
+  178  git add fourth.txt 
+  179  vim first.txt
+  180  git commit
+  181  git push -u origin task1
+  182  git checkout master
+  183  touch "readme.md"
+  184  vim readme.md 
+  185  git commit
+  186  git add first.txt 
+  187  git add readme.md 
+  188  git commit
+  189  git push
+  190  git push -u origin master
+  191  cd 
+  192  cd Michlachevsky-git-repo/
+  193  vim third.txt 
+  194  cd Michlachevsky-git-repo/
+  195  vim third.txt 
+  196  git add third.txt 
+  197  git commit 
+  198  git push -u origin master
+  199  vim second.txt 
+  200  vim third.txt 
+  201  branch task1
+  202  git checkout task1
+  203  git init
+  204  git checkout task1
+  205  git push origin some-task1
+  206  branch task2
+  207  git checkout -b task2
+  208  mkdir tree.txt
+  209  git history
+  210  git --help
+  211  git init
+  212  git history
+  213  vim tree
+  214  history
+  215  history -a
+  216  git log --pretty=format:"%h %s" --graph
+  217  vim tree
+  218  git log
+  219  git log tree.txt
+  220  git add "tree.txt"
+  221  touch "tree.txt"
+  222  git log tree.txt
+  223  vim tree.txt 
+  224  git log "tree.txt"
+  225  git log > tree.txt
+  226  git history > tree.txt
+  227  git log > tree.txt
+  228  git commit
+  229  git add .
+  230  git commit
+  231  history
+  232  history > touch "history.txt"
+  233   touch "history.txt"
+  234  history > "history.txt"
